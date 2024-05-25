@@ -1,1 +1,2 @@
 Yo, I'm currently learning Git and Version Control.
+I'm learning to use branching and merging.
